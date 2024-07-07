@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="99316aa6-426c-44a4-b669-f98443564c50" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -14,6 +15,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/ebay/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/ebay/AppTest.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="99316aa6-426c-44a4-b669-f98443564c50" name="Changes" comment="ebayTesting" />
+>>>>>>> 673db47 (ebayTesting)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -46,6 +51,16 @@
     "last_opened_file_path": "C:/Users/Devraj/IdeaProjects/Ebay_complete_testing/src/driver/edge"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Devraj/IdeaProjects/Ebay_complete_testing/src/driver/edge&quot;
+  }
+}</component>
+>>>>>>> 673db47 (ebayTesting)
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Devraj\IdeaProjects\Ebay_complete_testing\src\driver\edge" />
@@ -113,6 +128,31 @@
       <option name="presentableId" value="Default" />
       <updated>1720233676307</updated>
     </task>
+<<<<<<< HEAD
+=======
+    <task id="LOCAL-00001" summary="ebayTesting">
+      <created>1720382687508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720382687508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ebayTesting">
+      <created>1720382806650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720382806650</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ebayTesting">
+      <created>1720393059947</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720393059947</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+>>>>>>> 673db47 (ebayTesting)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,12 +160,29 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State />
+=======
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+>>>>>>> 673db47 (ebayTesting)
           </value>
         </entry>
       </map>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ebayTesting" />
+    <option name="LAST_COMMIT_MESSAGE" value="ebayTesting" />
+  </component>
+>>>>>>> 673db47 (ebayTesting)
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ebay_complete_testing$SearchItem.ic" NAME="SearchItem Coverage Results" MODIFIED="1720315932494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.ebay.*</FILTER>
